@@ -9,7 +9,7 @@ The content is intentionally minimal and focuses on **metric interpretation**, r
 
 This directory contains **model outputs after fault injection**.
 
-- Each file corresponds to an inference result affected by injected hardware faults.
+- Each file corresponds to an inference result affected by injected SEU faults.
 - No additional preprocessing or aggregation is applied.
 - These outputs serve as the **input basis** for computing stable-rank metrics shown in later examples.
 
